@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore',category=FutureWarning)
 # In[2]:
 
 
-data=pd.read_csv("C:\\Users\\Kailas\\OneDrive\\Desktop\\spam.csv",encoding="ISO-8859-1", engine="python")
+data=pd.read_csv("spam.csv",encoding="ISO-8859-1", engine="python")
 data
 
 
